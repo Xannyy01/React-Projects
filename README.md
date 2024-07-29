@@ -23,7 +23,7 @@ npm install
 
 ### Running the App
 
-npm install
+npm run dev
 # or
 yarn build
 
